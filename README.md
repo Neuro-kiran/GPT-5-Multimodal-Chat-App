@@ -381,6 +381,3 @@ The API includes CORS middleware configured to allow all origins during developm
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
